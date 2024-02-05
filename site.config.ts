@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://www.notion.so/MayUBlue-e6103f1419e243b8a6d1b41e1e15f551?pvs=4',
+  domain: 'https://www.notion.so/MayUBlue-e6103f1419e243b8a6d1b41e1e15f551',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
